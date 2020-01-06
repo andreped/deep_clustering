@@ -1,4 +1,4 @@
-# deep_clustering
+# DEEP CLUSTERING :)
 
 Sandbox for playing around with some deep clustering frameworks using benchmark datasets (mnist, fashion mnist, usps, cifar10, etc...)
 The code is adapted from:
